@@ -1,5 +1,5 @@
 # modules
-A nice little repository with a fer moduled i wrote in it.
+A nice little repository with a few moduled i wrote in it.
 
 1:
   The Form module
