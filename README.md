@@ -1,5 +1,5 @@
 # modules
-A nice little repository with a few moduled i wrote in it.
+A nice little repository with a few modules I wrote.
 
 1:
   The Form module
@@ -11,3 +11,4 @@ A nice little repository with a few moduled i wrote in it.
   If you want to show how many questions there are as well, IE: "1/10", type newForm.ask(showRemaining=True)"
   Subtitude newForm for the name of your form.
  
+PS. Hell, I keep making typos and having to change this readme.
